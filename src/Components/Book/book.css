@@ -1,0 +1,9 @@
+#bookmenu {
+  width: 400px;
+  margin: 100px auto;
+  height: 180px;
+  color: black;
+  opacity: 0.8;
+  background-color: whitesmoke;
+  border: 1px solid black;
+}
