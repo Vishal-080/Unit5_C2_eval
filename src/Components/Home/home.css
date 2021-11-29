@@ -1,3 +1,10 @@
 #container {
   color: red;
+  background-color: whitesmoke;
+  opacity: 0.9;
+  width: 400px;
+  margin: 100px auto;
+  height: 220px;
+  border: 1px solid black;
+  border-radius: 8px;
 }
